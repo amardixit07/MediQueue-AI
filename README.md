@@ -2,7 +2,7 @@
 
 > An industry-grade, AI-powered Hospital & Clinic Management Platform built with the MERN stack, Socket.IO real-time queues, and Google Gemini AI.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-6366f1?style=for-the-badge)](https://your-live-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-6366f1?style=for-the-badge)](https://medi-queue-ai-five.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-24292e?style=for-the-badge&logo=github)](https://github.com/yourusername/mediqueue-ai)
 
 ---
