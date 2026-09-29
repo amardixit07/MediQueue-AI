@@ -172,7 +172,7 @@ npm run build
 
 ## 👨‍💻 Author
 
-**Ashu** — Full Stack Developer
+Amardeep Dixit — Full Stack Developer
 
 - Built with ❤️ using MERN Stack + Google Gemini AI
 - Solves real-world healthcare digitization problem in India
